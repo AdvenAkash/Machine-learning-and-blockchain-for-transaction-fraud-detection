@@ -14,6 +14,14 @@ This project focuses on developing a robust fraud detection system using various
 - Evaluates system performance across different data volumes and complexity levels.
 - Calculates F Beta score to assess model accuracy.
 
+## Dataset
+
+The dataset used in this project is sourced from Kaggle's [Paysim1 Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1). 
+- It provides a comprehensive collection of transactional data for training and evaluating our fraud detection models.
+- The dataset includes various features such as transaction type, amount, balance, and more, making it suitable for analyzing fraudulent activities within     
+  financial transactions.
+
+
 ## Technologies Used
 
 - Python
@@ -51,7 +59,6 @@ jupyter notebook
 
 5. Open the `machine_learning_and_blockchain_for_transaction_fraud_detection.ipynb` notebook and run the cells as needed.
 
-Make sure to replace `"yourusername"` with your GitHub username in the repository URL.
 
 ## Contributing
 
